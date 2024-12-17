@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Cat Game.sln"
+    "dotnet.defaultSolution": "Cat.sln"
 }
